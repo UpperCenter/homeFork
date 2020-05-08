@@ -1,36 +1,45 @@
 const Config = {
-    name: "user",
+    name: "uppercenter",
     scale: 1,
     Links: [
         [
-            "site",
+            "Personal",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["Twitter", "https://twitter.com"],
+                ["GitHub", "https://github.com"],
+                ["YouTube", "https://youtube.co.uk"],
+                ["Spotify", "https://open.spotify.com"],
+                ["Twitch", "https://twitch.tv"],
+                ["OVH Webmail", "https://pro1.mail.ovh.net/owa"],
             ]
         ],
         [
-            "site",
+            "Wikis",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["ArchWiki", "https://wiki.archlinux.org/"],
+                ["Awesome Security", "https://github.com/sbilly/awesome-security"],
+                ["USW Referencing", "https://uppercenter.github.io/Psychic-Telegram/usw.pdf"],
+                ["Dillinger", "https://dillinger.io/"]
             ]
         ],
         [
-            "site",
+            "University",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["Uni Outlook", "https://outlook.office365.com/mail/inbox"],
+                ["Unilearn", "https://unilearn.southwales.ac.uk"],
+                ["OneDrive", "https://bit.ly/One-Drv"],
+                ["Azure Software", "https://bit.ly/AzureSoft"],
             ]
         ],
         [
-            "site",
+            "InfoSec",
             [
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"],
-                ["link", "https://www.example.com"]
+                ["ExploitDB", "https://exploit-db.com"],
+                ["GreyNoise", "https://viz.greynoise.io"],
+                ["WHOIS", "https://lookup.icann.org"],
+                ["IP Address WHOIS", "https://whois.urih.com"],
+                ["OpenDirectory", "https://the-eye.eu"],
+                ["Email Search", "https://hunter.io"]
             ]
         ]
     ]
